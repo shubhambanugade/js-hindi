@@ -23,4 +23,7 @@
 
  // object
 
+ console.log(typeof "shubham")
+ console.log(typeof age)
+ console.log(typeof null)
  console.log(typeof undefined)
