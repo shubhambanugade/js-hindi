@@ -5,7 +5,7 @@ if (true) {
     let a = 20
     const b = 10
     var c = 40
-    // console.log("Inner: " , a);
+    console.log("Inner: " , a);
 
 }
 
